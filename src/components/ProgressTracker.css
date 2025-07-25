@@ -1,0 +1,153 @@
+/* src/components/ProgressTracker.css */
+
+/* === Color Palette ===
+   Light Orange Background: #fff8f0
+   Primary Orange: #ff8c42
+   Darker Orange: #e6762f
+   Light Gray: #f5f5f5
+*/
+
+.tracker-container {
+  max-width: 800px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background: #fff8f0; /* light orange background */
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(255, 140, 66, 0.2);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #333;
+}
+
+.tracker-container h2 {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: #e6762f;
+}
+
+.add-task-form {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-bottom: 1.5rem;
+  justify-content: space-between;
+}
+
+.add-task-form input,
+.add-task-form select {
+  flex: 1 1 200px;
+  padding: 10px;
+  border: 1px solid #ffd4b0;
+  border-radius: 8px;
+  font-size: 14px;
+  background-color: #fff;
+  outline: none;
+  transition: 0.3s;
+}
+
+.add-task-form input:focus,
+.add-task-form select:focus {
+  border-color: #ff8c42;
+}
+
+.add-task-form button {
+  padding: 10px 20px;
+  background-color: #ff8c42;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s;
+}
+
+.add-task-form button:hover {
+  background-color: #e6762f;
+}
+
+.summary {
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff1e6;
+  padding: 12px;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  font-weight: bold;
+  color: #444;
+}
+
+.task-list {
+  list-style-type: none;
+  padding: 0;
+}
+
+.task {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 14px;
+  margin-bottom: 10px;
+  border-radius: 10px;
+  background-color: #fff;
+  transition: 0.3s;
+  border-left: 6px solid transparent;
+  box-shadow: 0 2px 6px rgba(255, 140, 66, 0.15);
+}
+
+.task:hover {
+  background-color: #fff3e6;
+}
+
+.task.not-started {
+  border-left-color: #ffb199; /* light coral/orange */
+}
+
+.task.in-progress {
+  border-left-color: #ff8c42;
+}
+
+.task.completed {
+  border-left-color: #4caf50; /* green to indicate success */
+}
+
+.task select {
+  padding: 6px;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+  margin-right: 10px;
+  font-size: 14px;
+}
+
+.delete-btn {
+  background-color: #ff5c33;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.2s ease;
+}
+
+.delete-btn:hover {
+  background-color: #cc4726;
+}
+
+@media (max-width: 600px) {
+  .add-task-form {
+    flex-direction: column;
+  }
+
+  .summary {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .task {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .task div:last-child {
+    margin-top: 10px;
+  }
+}

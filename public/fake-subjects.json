@@ -1,0 +1,148 @@
+[
+  {
+    "class": "10",
+    "name": "Mathematics",
+    "resources": [
+      { "type": "NCERT Textbook PDF", "url": "https://ncert.nic.in/textbook/pdf/jemh1ps.pdf" },
+      { "type": "NCERT Solutions", "url": "https://www.learncbse.in/ncert-solutions-for-class-10-maths/" },
+      { "type": "NCERT Exemplar PDF", "url": "https://www.aspirationsinstitute.com/wp-content/uploads/2020/10/CBSE-Class-10-Maths-NCERT-Exemplar-Book-PDF-Complete.pdf" }
+    ]
+  },
+  {
+    "class": "10",
+    "name": "Science",
+    "resources": [
+      { "type": "NCERT Textbook PDF", "url": "https://ncert.nic.in/textbook/pdf/jesc1.pdf" },
+      { "type": "Revision Notes", "url": "https://www.learncbse.in/revision-notes-for-class-10-science/" },
+      { "type": "NCERT Lab Manual", "url": "https://ncert.nic.in/textbook/pdf/jesc1.pdf" }
+    ]
+  },
+  {
+    "class": "10",
+    "name": "English",
+    "resources": [
+      { "type": "First Flight Textbook PDF", "url": "https://ncert.nic.in/textbook/pdf/jeff101.pdf" },
+      { "type": "Workbook PDF", "url": "https://ncert.nic.in/textbook/pdf/jewe2ps.pdf" },
+      { "type": "Supplementary Reader PDF", "url": "https://ncert.nic.in/textbook/pdf/jeff104.pdf" }
+    ]
+  },
+  {
+    "class": "10",
+    "name": "Social Science",
+    "resources": [
+      { "type": "NCERT Textbook", "url": "https://ncert.nic.in/textbook.php?jess1=0-10" },
+      { "type": "History Notes", "url": "https://www.learncbse.in/ncert-solutions-for-class-10-social-science-history/" },
+      { "type": "Geography Map Practice", "url": "https://www.learncbse.in/class-10-geography-important-map-work/" }
+    ]
+  },
+  {
+    "class": "10",
+    "name": "Hindi",
+    "resources": [
+      { "type": "NCERT Textbook (Sanchayan)", "url": "https://ncert.nic.in/textbook.php?jhin1=0-10" },
+      { "type": "Vyakaran Notes", "url": "https://www.learncbse.in/hindi-grammar-class-10/" },
+      { "type": "Previous Year Questions", "url": "https://www.saralstudy.com/study-eschool-ncertsolution/class-10/hindi" }
+    ]
+  },
+
+  {
+    "class": "11",
+    "name": "Mathematics",
+    "resources": [
+      { "type": "NCERT Book", "url": "https://ncert.nic.in/textbook.php?kemh1=0-11" },
+      { "type": "Important Formulas", "url": "https://www.learncbse.in/formulas-for-class-11-maths/" },
+      { "type": "Assignments", "url": "https://www.sarthaks.com/assignments/class-11-maths" }
+    ]
+  },
+  {
+    "class": "11",
+    "name": "Physics",
+    "resources": [
+      { "type": "NCERT Physics PDF", "url": "https://ncert.nic.in/textbook/pdf/keph101.pdf" },
+      { "type": "NCERT Physics 2 PDF", "url": "https://ncert.nic.in/textbook/pdf/keph102.pdf" },
+      { "type": "Solutions by eSaral", "url": "https://www.esaral.com/ncert-class-11-physics-book/" }
+    ]
+  },
+  {
+    "class": "11",
+    "name": "Chemistry",
+    "resources": [
+      { "type": "NCERT Book", "url": "https://ncert.nic.in/textbook.php?kech1=0-11" },
+      { "type": "Organic Chemistry Notes", "url": "https://www.learncbse.in/organic-chemistry-class-11-notes/" },
+      { "type": "Practicals", "url": "https://byjus.com/chemistry/class-11-chemistry-lab-manual/" }
+    ]
+  },
+  {
+    "class": "11",
+    "name": "Biology",
+    "resources": [
+      { "type": "NCERT Textbook PDF", "url": "https://www.learncbse.in/cbse-notes-class-11-biology/" },
+      { "type": "Important Questions", "url": "https://www.esaral.com/ncert-class-11-physics-book/" },
+      { "type": "Diagrams Playlist", "url": "https://www.youtube.com/playlist?list=PL7KIPLYDYPrxYHaewYUrWmkx_LxsumOPs" }
+    ]
+  },
+  {
+    "class": "11",
+    "name": "Computer Science",
+    "resources": [
+      { "type": "Python Programs", "url": "https://www.cbsetuts.com/python-programs-class-11/" },
+      { "type": "NCERT Book", "url": "https://ncert.nic.in/textbook.php?kecs1=0-11" },
+      { "type": "Sample Questions", "url": "https://www.geeksforgeeks.org/python-programs-class-11-cbse-students/" }
+    ]
+  },
+
+  {
+    "class": "12",
+    "name": "Mathematics",
+    "resources": [
+      { "type": "NCERT Book", "url": "https://ncert.nic.in/textbook.php?lemh1=0-12" },
+      { "type": "Integration & Differentiation Notes", "url": "https://www.learncbse.in/integrals-class-12-formulas/" },
+      { "type": "Sample Papers", "url": "https://cbseacademic.nic.in/SQP_CLASSXII_2022-23.html" }
+    ]
+  },
+  {
+    "class": "12",
+    "name": "Physics",
+    "resources": [
+      { "type": "NCERT Book", "url": "https://ncert.nic.in/textbook.php?leph1=0-12" },
+      { "type": "Electrostatics Notes", "url": "https://www.learncbse.in/electrostatics-class-12-notes/" },
+      { "type": "Video Lectures", "url": "https://www.youtube.com/playlist?list=PLVLoWQFkZbhWAIH8-A1vmkEyxG2JRSOzr" }
+    ]
+  },
+  {
+    "class": "12",
+    "name": "Chemistry",
+    "resources": [
+      { "type": "NCERT Chemistry Part 1", "url": "https://ncert.nic.in/textbook/pdf/lech101.pdf" },
+      { "type": "NCERT Chemistry Part 2", "url": "https://www.drishtiias.com/images/pdf/NCERT-Class-12-Chemistry-Part-2.pdf" },
+      { "type": "Vedantu NCERT Download", "url": "https://www.vedantu.com/ncert-books/ncert-books-class-12-chemistry" }
+    ]
+  },
+  {
+    "class": "12",
+    "name": "Biology",
+    "resources": [
+      { "type": "NCERT Book", "url": "https://ncert.nic.in/textbook.php?lebo1=0-12" },
+      { "type": "Diagrams & Practice", "url": "https://www.learncbse.in/class-12-biology-important-diagrams/" },
+      { "type": "MCQs", "url": "https://byjus.com/biology/mcq-questions-for-class-12-biology-with-answers/" }
+    ]
+  },
+  {
+    "class": "12",
+    "name": "Computer Science",
+    "resources": [
+      { "type": "Python Programs", "url": "https://www.cbsetuts.com/python-programs-class-12/" },
+      { "type": "Theory Notes", "url": "https://www.learncbse.in/ncert-solutions-for-class-12-computer-science-python/" },
+      { "type": "Project Samples", "url": "https://www.geeksforgeeks.org/python-projects-class-12-cbse-students/" }
+    ]
+  },
+  {
+    "class": "12",
+    "name": "English",
+    "resources": [
+      { "type": "NCERT Book (Flamingo)", "url": "https://ncert.nic.in/textbook.php?lehn1=0-12" },
+      { "type": "Writing Skills", "url": "https://www.toppr.com/guides/english/writing-skills/" },
+      { "type": "Sample Papers", "url": "https://cbseacademic.nic.in/SQP_CLASSXII_2022-23.html" }
+    ]
+  }
+]

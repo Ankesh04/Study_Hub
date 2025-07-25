@@ -1,0 +1,64 @@
+/* src/components/About.css */
+
+.about-container {
+  max-width: 900px;
+  margin: 2rem auto;
+  padding: 2rem;
+  background-color: #fff8f0; /* light orange */
+  border-radius: 12px;
+  box-shadow: 0 8px 20px rgba(255, 140, 66, 0.15);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.8;
+  color: #333;
+}
+
+.about-container h1 {
+  color: #ff6b00;
+  text-align: center;
+  margin-bottom: 1.5rem;
+  font-size: 2rem;
+}
+
+.about-container h2 {
+  color: #e25e00;
+  margin-top: 1.8rem;
+  margin-bottom: 0.5rem;
+  font-size: 1.4rem;
+}
+
+.about-container p {
+  margin-bottom: 1rem;
+  font-size: 1rem;
+}
+
+.about-container ul {
+  margin-left: 1.5rem;
+  padding-left: 1rem;
+}
+
+.about-container ul li {
+  margin-bottom: 0.5rem;
+  list-style-type: disc;
+}
+
+.about-container p:last-of-type {
+  text-align: center;
+  margin-top: 2rem;
+  font-weight: bold;
+  color: #555;
+  font-size: 1.1rem;
+}
+
+@media (max-width: 600px) {
+  .about-container {
+    padding: 1.5rem 1rem;
+  }
+
+  .about-container h1 {
+    font-size: 1.6rem;
+  }
+
+  .about-container h2 {
+    font-size: 1.2rem;
+  }
+}
