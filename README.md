@@ -28,23 +28,23 @@ In today’s digital age, students use multiple tools like Google Keep, calendar
 
 ### Homepage
 ![Homepage Screenshot](public/1.png)
-
+### Login page
 ![Login page Screenshot](public/2.png)
-
+### SignUp page 
 ![SignUp page Screenshot](public/3.png)
-
+### Homepage After Login
 ![Homepage After Login Screenshot](public/4.png)
-
+### Subjects Page
 ![Subjects Page Screenshot](public/5.png)
-
+### About page
 ![About page Screenshot](public/6.png)
-
+### Contact Us page
 ![Contact Us page Screenshot](public/7.png)
-
+### Progress Tracker page 
 ![Progress Tracker page Screenshot](public/8.png)
-
+### My Notes page
 ![My Notes page Screenshot](public/9.png)
-
+### Blog page 
 ![Blog page Screenshot](public/10.png)
 
 
