@@ -5,12 +5,12 @@ import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage"; // ✅ Import storage
 
 const firebaseConfig = {
-  apiKey: "AIzaSyBkKv2AGeEC9ghTn5cJSrvaqDgEgthU2Ss",
-  authDomain: "study-hub-9c460.firebaseapp.com",
-  projectId: "study-hub-9c460",
-  storageBucket: "study-hub-9c460.appspot.com",
-  messagingSenderId: "926419342978",
-  appId: "1:926419342978:web:715a7546fdaf572a7a469b",
+  apiKey: import.meta.env.VITE_API_KEY,
+  authDomain: import.meta.env.VITE_AUTH_DOMAIN,
+  projectId: import.meta.env.VITE_PROJECT_ID,
+  storageBucket: import.meta.env.VITE_STORAGE_BUCKET,
+  messagingSenderId: import.meta.env.VITE_MESSAGING_SENDER_ID,
+  appId: import.meta.env.VITE_APP_ID,
   measurementId: "G-4HXXQXPEFD"
 };
 
